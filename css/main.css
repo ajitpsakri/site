@@ -12,6 +12,9 @@
 .site-header-content{
     margin: 18px;
 }
+.expense{
+    color: #ecfdf9;
+}
 .profile-pic{
     border-radius: 50%;
     height: 200px;
